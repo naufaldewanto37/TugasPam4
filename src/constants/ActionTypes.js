@@ -1,0 +1,13 @@
+export const ADD_DATA = "ADD_DATA";
+export const DELETE_DATA = "DELETE_DATA";
+export const EDIT_DATA = "EDIT_DATA";
+
+export const ADD_DATA_REQUEST = "ADD_DATA_REQUEST";
+export const DELETE_DATA_REQUEST = "DELETE_DATA_REQUEST";
+export const EDIT_DATA_REQUEST = "EDIT_DATA_REQUEST";
+
+export const ADD_DATA_SUCCESS = "ADD_DATA_SUCCESS";
+export const DELETE_DATA_SUCCESS = "DELETE_DATA_SUCCESS";
+export const EDIT_DATA_SUCCESS = "EDIT_DATA_SUCCESS";
+
+export const API_FAILURE = "API_FAILURE";
